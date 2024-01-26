@@ -1,4 +1,4 @@
-# [Your Name]'s Portfolio
+# 👋 Hello, my name is Valery
 
 Welcome to my GitHub portfolio! This repository highlights some of the projects I've worked on, demonstrating my skills and passion for programming.
 
@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! This repository highlights some of the projects 
 - [Skills](#skills)
 - [Contact](#contact)
 
-## About Me
+### 👨‍💻 About me:
 
 I am a [Your Role/Title] with a deep interest in [Specific Technologies or Domains]. My journey in the world of programming has been filled with exciting challenges and continuous learning. I am always eager to explore new technologies and contribute to innovative projects.
 
