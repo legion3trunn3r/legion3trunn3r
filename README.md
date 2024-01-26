@@ -1,41 +1,34 @@
 # 👋 Hello, my name is Valery
 
-Welcome to my GitHub portfolio! This repository highlights some of the projects I've worked on, demonstrating my skills and passion for programming.
-
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Projects](#projects)
 - [Skills](#skills)
 - [Contact](#contact)
 
-### 👨‍💻 About me:
+## 👨‍💻 About me:
 
-I am a [Your Role/Title] with a deep interest in [Specific Technologies or Domains]. My journey in the world of programming has been filled with exciting challenges and continuous learning. I am always eager to explore new technologies and contribute to innovative projects.
+I'm a back-end programmer and system administator with a passion for creating engaging and intuitive user experiences<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I'm skilled in a variety of front-end technologies, including HTML, CSS, and JavaScript, as well as popular framework like React.js.
+- 🎨 I love exploring the latest design trends and experimenting with creative ways to bring them to life on the web. I'm also comfortable working with design tools like Sketch and Figma to create pixel-perfect designs.
 
-## Projects
+- 👑 Problem-solving is one of my strengths, and I enjoy tackling challenging coding issues and finding elegant solutions to complex problems.
 
-### [Project Name 1](./project1)
-Short description of the project. What problem does it solve? What technologies were used?
+- 🌟 Collaboration is one of the keys to my approach, and I thrive in team environments where I can learn from my peers and contribute to a shared vision.
 
-### [Project Name 2](./project2)
-Brief overview of the second project. Mention key features and technologies employed.
+- 🚀 Above all, I'm passionate about creating high-quality back-end solutions that delight users and drive business results.
 
-### [Project Name 3](./project3)
-Describe the third project. Highlight any unique aspects or challenges you faced.
+- 💼 I always get things done and never give up on projects.
 
-Feel free to add more projects as needed, and provide links to their respective directories.
+- 📫 If you are interested in working with me or just want to talk about programming, write to me: [![Telegram Badge](https://img.shields.io/badge/-Legion-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Leg1on8)) 
 
 ## Skills
 
-- **Programming Languages:** List languages you are proficient in.
-- **Web Technologies:** Mention your expertise in web development technologies.
-- **Databases:** Specify any databases you are familiar with.
-- **Tools and Frameworks:** Highlight tools and frameworks you have experience with.
+- **Programming Languages:** Python, C++, JavaScript, 
+- **Web Technologies:** ReactJS, Django, Npm
+- **Databases:** MySQL, mSQL, PostgreSQL, MongoDB, SQLite
 
 ## Contact
 
-- **Email:** your.email@example.com
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
 - **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com)
 
