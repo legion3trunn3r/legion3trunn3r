@@ -29,8 +29,7 @@ I'm a back-end programmer and system administator with a passion for creating en
 
 ## Contact
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Portfolio Website:** [Your Portfolio Website](https://www.yourportfolio.com)
+- **LinkedIn:** [Valery Trishevsky](https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/valery-trishevsky/))
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
