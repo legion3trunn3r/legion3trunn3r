@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [About Me:](#about-me)
+- [About me](#about-me)
 - [Skills](#skills)
 - [Contact](#contact)
 
-## 👨‍💻 About me:
+## 👨‍💻 About me
 
 I'm a back-end programmer and system administator with a passion for creating engaging and intuitive user experiences<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. I'm skilled in a variety of front-end technologies, including HTML, CSS, and JavaScript, as well as popular framework like React.js.
 - 🎨 I love exploring the latest design trends and experimenting with creative ways to bring them to life on the web. I'm also comfortable working with design tools like Sketch and Figma to create pixel-perfect designs.
