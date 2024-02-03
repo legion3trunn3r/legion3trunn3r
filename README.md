@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [About Me](#about-me)
+- [About Me:](#about-me)
 - [Skills](#skills)
 - [Contact](#contact)
 
