@@ -19,7 +19,7 @@ I'm a front-end programmer and system administator with a passion for creating e
 
 - 💼 I always get things done and never give up on projects.
 
-- 📫 If you are interested in working with me or just want to talk about programming, write to me: [![Telegram Badge](https://img.shields.io/badge/-Legion-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Leg1on8)) 
+- 📫 If you are interested in working with me or just want to talk about programming, write to me: [![Telegram Badge](https://img.shields.io/badge/-Legion-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ValeryLegion)) 
 
 ## Skills
 
