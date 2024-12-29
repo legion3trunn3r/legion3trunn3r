@@ -36,3 +36,9 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 ---
 
 Thank you for visiting my GitHub portfolio. I look forward to sharing more exciting projects in the future!
+
+![3428111](https://github.com/user-attachments/assets/7f731e61-f99e-428c-8af9-6514685ff626)
+![6172337](https://github.com/user-attachments/assets/497a33b8-9e26-4522-a1f3-e31cf82d9842)
+![7802433](https://github.com/user-attachments/assets/3f364a01-36f6-4809-a25d-c8db71fce573)
+
+
